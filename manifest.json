@@ -1,14 +1,15 @@
 {
-	"name": "Interia",
+	"name": "Interia.pl",
 	"description": "Link to interia.pl",
 	"version": "1",
 	"app": {
 		"urls": [
-		"*://interia.pl/"
+		"*://www.interia.pl/"
 		],
 		"launch": {
 			"web_url": "http://www.interia.pl/"
-		},
+		}
+	},
 	"icons": {
 		"128": "logo_interia.png"
 	},
@@ -16,5 +17,4 @@
 		"unlimitedStorage",
 		"notifications"
 	]
-
 }
